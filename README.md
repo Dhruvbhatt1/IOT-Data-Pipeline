@@ -82,7 +82,7 @@ This project adheres to the **Medallion Architecture**, a modular approach to or
 ### Example Commands
 - **Run Data Simulation**:  
   ```bash
-  python iot_data_simulator.py
+  simulated_device.py
   ```
 - **Start ADF Pipeline**:  
   Trigger the pipeline from the Azure Portal or using Azure CLI.
